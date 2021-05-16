@@ -101,6 +101,11 @@ p {
     font-style: italic;
 }
 
+/* Footer */
+
+footer {
+    text-align: right;
+}
 
 
 
